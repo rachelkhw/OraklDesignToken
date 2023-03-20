@@ -96,7 +96,11 @@
         "type": "color"
       },
       "WhiteDimd20": {
-        "value": "#ffffff33",
+        "value": "#ffffff20",
+        "type": "color"
+      },
+      "WhiteDimd40": {
+        "value": "#ffffff40",
         "type": "color"
       }
     },
