@@ -587,12 +587,32 @@
         },
         "type": "typography"
       },
+      "SS": {
+        "value": {
+          "fontFamily": "Pretendard",
+          "fontWeight": "Medium",
+          "lineHeight": "Auto",
+          "fontSize": "14",
+          "letterSpacing": "-2%"
+        },
+        "type": "typography"
+      },
       "L": {
         "value": {
           "fontFamily": "Pretendard",
           "fontWeight": "Black",
           "lineHeight": "Auto",
           "fontSize": "22",
+          "letterSpacing": "-2%"
+        },
+        "type": "typography"
+      },
+      "XL": {
+        "value": {
+          "fontFamily": "Pretendard",
+          "fontWeight": "Medium",
+          "lineHeight": "Auto",
+          "fontSize": "24",
           "letterSpacing": "-2%"
         },
         "type": "typography"
