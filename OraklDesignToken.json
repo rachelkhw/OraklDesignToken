@@ -429,7 +429,7 @@
           "fontWeight": "Bold",
           "lineHeight": "24",
           "fontSize": "14",
-          "letterSpacing": "-2%"
+          "letterSpacing": ""
         },
         "type": "typography"
       }
@@ -461,7 +461,7 @@
           "fontWeight": "Regular",
           "lineHeight": "Auto",
           "fontSize": "18",
-          "letterSpacing": "-2%"
+          "letterSpacing": ""
         },
         "type": "typography"
       },
@@ -471,7 +471,7 @@
           "fontWeight": "Regular",
           "lineHeight": "24",
           "fontSize": "16",
-          "letterSpacing": "-2%"
+          "letterSpacing": ""
         },
         "type": "typography"
       },
@@ -481,7 +481,7 @@
           "fontWeight": "Regular",
           "lineHeight": "20",
           "fontSize": "14",
-          "letterSpacing": "-2%"
+          "letterSpacing": ""
         },
         "type": "typography"
       },
@@ -491,7 +491,7 @@
           "fontWeight": "Regular",
           "lineHeight": "20",
           "fontSize": "13",
-          "letterSpacing": "-2%"
+          "letterSpacing": ""
         },
         "type": "typography"
       }
@@ -503,7 +503,7 @@
           "fontWeight": "Regular",
           "lineHeight": "Auto",
           "fontSize": "14",
-          "letterSpacing": "-2%"
+          "letterSpacing": ""
         },
         "type": "typography"
       },
@@ -513,7 +513,7 @@
           "fontWeight": "Regular",
           "lineHeight": "Auto",
           "fontSize": "13",
-          "letterSpacing": "-2%"
+          "letterSpacing": ""
         },
         "type": "typography"
       },
@@ -523,7 +523,7 @@
           "fontWeight": "Bold",
           "lineHeight": "Auto",
           "fontSize": "12",
-          "letterSpacing": "-2%"
+          "letterSpacing": ""
         },
         "type": "typography"
       }
@@ -545,7 +545,7 @@
           "fontWeight": "Bold",
           "lineHeight": "Auto",
           "fontSize": "18",
-          "letterSpacing": "-2%"
+          "letterSpacing": ""
         },
         "type": "typography"
       },
@@ -555,7 +555,7 @@
           "fontWeight": "Bold",
           "lineHeight": "Auto",
           "fontSize": "16",
-          "letterSpacing": "-2%"
+          "letterSpacing": ""
         },
         "type": "typography"
       },
@@ -565,7 +565,7 @@
           "fontWeight": "Bold",
           "lineHeight": "Auto",
           "fontSize": "14",
-          "letterSpacing": "-2%"
+          "letterSpacing": ""
         },
         "type": "typography"
       }
